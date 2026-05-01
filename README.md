@@ -34,3 +34,15 @@ Edit `personal`, `skills`, `projects`, `experience`, `testimonials`, and `social
 npm run build
 npm run preview
 ```
+
+## Deploy to Vercel
+
+```bash
+npx vercel
+```
+
+For production deployment:
+
+```bash
+npx vercel --prod
+```
