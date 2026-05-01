@@ -1,7 +1,7 @@
 {
   "name": "alex-carter-portfolio",
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   },
   "private": true,
   "version": "1.0.0",
